@@ -1,0 +1,28 @@
+body
+{
+    background-color: rgb(0, 255, 255);
+}
+
+.heading
+{
+    font-size : 28px ;
+
+    width : 70%;
+
+    background-color: rgb(251, 134, 255) ;
+
+}
+
+.heading:hover
+{
+    background-color: rgb(146, 214, 57) ;
+}
+
+#camera
+{
+    border : 2px dashed rgb(0, 0, 0) ;
+
+    width : 350px ;
+
+    height : 300px ;
+}
